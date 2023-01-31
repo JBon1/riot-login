@@ -11,10 +11,6 @@ Essa é um cópia da tela de login do jogo League of Legends da Riot Games. <br/
 
 <br>
 
-<p align="center">
-  <img alt="Tela de login" src=".images/Template.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
